@@ -1,5 +1,5 @@
 function path = ImagPath(randomNum)
-    a='/media/akshit/New Volume/work/phash/ILSVRC2015_DET_test_new/ILSVRC2015/Data/DET/test/';
+    a='Image_path/image.jpg';
     % path of the data set
     b='ILSVRC2015_test_';
     % image name
